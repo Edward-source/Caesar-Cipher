@@ -18,7 +18,7 @@ class Page
 	  /* This method will return the number of sentences there are on the Page. */
 	  int getNumberOfSentences();
 
-  public:
+  private:
 	  /*
 	  * This member will store the sentences on the page. 
 	  * You may assume that a record will never have more than 34 sentences.
